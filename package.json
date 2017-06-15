@@ -1,0 +1,26 @@
+{
+    "name": "shen",
+    "displayName": "Shen",
+    "description": "Shen language support for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "Bruno Deferrari",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "shen",
+            "aliases": ["Shen", "shen"],
+            "extensions": [".shen"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "shen",
+            "scopeName": "source.shen",
+            "path": "./syntaxes/shen.tmLanguage"
+        }]
+    }
+}
