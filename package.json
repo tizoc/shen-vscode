@@ -3,7 +3,8 @@
     "displayName": "Shen",
     "description": "Shen language support for Visual Studio Code",
     "version": "0.0.1",
-    "publisher": "Bruno Deferrari",
+    "publisher": "tizoc",
+    "repository": "https://github.com/tizoc/shen-vscode",
     "engines": {
         "vscode": "^1.13.0"
     },
