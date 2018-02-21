@@ -4,7 +4,8 @@
     "description": "Shen language support for Visual Studio Code",
     "version": "0.0.1",
     "publisher": "tizoc",
-    "repository": "https://github.com/tizoc/shen-vscode",
+    "repository": "https://github.com/tizoc/shen-vscode.gitt",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.13.0"
     },
