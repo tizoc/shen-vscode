@@ -2,6 +2,8 @@
 
 This is a VS Code extension that provides Shen language support.
 
+Syntax file copied from the [Sublime/Shen](https://github.com/rkoeninger/sublime-shen) extension written by Robert Koeninger.
+
 ## Features
 
 - Syntax highlighting for *.shen files.
