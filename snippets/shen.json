@@ -1,0 +1,19 @@
+{
+    "define": {
+        "prefix": "define",
+        "body": [
+            "define ${1:name}",
+        	"\t${2:pattern} -> ${3:body}"
+        ],
+        "description": "Function definition"
+    },
+    "define/typed": {
+        "prefix": "define",
+        "body": [
+            "define ${1:name}",
+            "\t{ ${2:signature} }",
+           	"\t${3:pattern} -> ${4:body}"
+        ],
+        "description": "Typed function definition"
+    }
+}

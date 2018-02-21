@@ -21,6 +21,10 @@
             "language": "shen",
             "scopeName": "source.shen",
             "path": "./syntaxes/shen.tmLanguage"
+        }],
+        "snippets":[{
+            "language": "shen",
+            "path": "snippets/shen.json"
         }]
     }
 }
